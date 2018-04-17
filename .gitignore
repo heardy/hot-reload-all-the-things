@@ -59,3 +59,6 @@ typings/
 
 # Build folder
 .build
+
+# IDE
+.idea
